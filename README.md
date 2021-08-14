@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+The purpose of the project was to retrieve weather data for 2,000 random latitudes and longitudes. Then, to use the retrieved weather data to create a customer travel destinations maps by asking questions in terms of the customer's weather preference, such as the maximum and minimum temperature they preferred their travel destination to have. From there, we are able to create a travel itinerary map once the customer has at least 4 cities in mind that they want to travel to. When the customer views the map and clicks on a marker that correlates to one of their travel destinations, they will be able to see the name of the hotel, name of the city, name of the country, the current weather description as well as the temperature. 
